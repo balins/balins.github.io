@@ -1,7 +1,6 @@
 ---
 layout: post
 title: hello, world
-subtitle: Welcome to my blog!
 date: "2021-02-28 17:33:07 +0100"
 
 ---
@@ -9,8 +8,7 @@ date: "2021-02-28 17:33:07 +0100"
 
 My name is Jakub Baliński, and I'm the author of this blog. This place will
 become my "travel diary", where I will share with you updates on my journey
-through intricacies of computer science.  
-It would be great if along the way, something I will have learned and
+through intricacies of computer science. It would be great if along the way, something I will have learned and
 written down will turn out to be useful for someone else :smile:
 
 Hopefully, soon enough I will be able to fill this place with lots of great
