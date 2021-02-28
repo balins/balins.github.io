@@ -8,7 +8,7 @@ tags: ["blog"]
 
 My name is Jakub Baliński, and I'm the author of this blog. This place will
 become my "travel diary", where I will share with you updates on my journey
-through intricacies of computer science. It would be great if along the way,
+through the intricacies of computer science. It would be great if along the way,
 something I will have learned and written down will turn out to be useful for
 someone else :smile:
 

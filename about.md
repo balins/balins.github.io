@@ -6,9 +6,9 @@ subtitle: hello, world!
 # the author
 
 My name is Jakub Baliński. I am a computer science student and part-time
-programmer, who's learning the ropes in IT world.
+programmer, who's learning the ropes in the IT world.
 
-I have great passion for learning and I love exploring new fields of
+I have a great passion for learning and I love exploring new fields of
 computer science, so you can expect to find here a broad variety of topics
 related to it, such as programming languages, software development, statistics,
 math, data science, machine learning, the cloud, Linux distros and whatnot.
@@ -21,7 +21,7 @@ all around the world.
 # the blog
 
 The idea to start my own blog and document the things I learn had been crossing
-my mind for many months. However, I had never felt ready put it into effect,
+my mind for many months. However, I had never felt ready to put it into effect,
 because I've never considered myself an expert at any field I wanted to write about.
 One day, I realized that due to the good old rule saying "the more you know,
 the more you realize how much you don't know" I will probably never reach this point.
