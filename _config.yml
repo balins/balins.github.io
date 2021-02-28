@@ -142,7 +142,7 @@ footer-link-col: "#404040"
 # whether or not you want to allow users to opt out of tracking.
 matomo:
  site_id: "3"
- uri: "http://balins-matomo.eastus2.cloudapp.azure.com/"
+ uri: "balins-matomo.eastus2.cloudapp.azure.com"
  opt-out: true
 
 # --- Comments --- #
