@@ -21,18 +21,20 @@ all around the world.
 
 The idea to start my own blog and document the things I learn had been crossing
 my mind for many months. However, I had never felt ready to put it into effect,
-because I've never considered myself an expert at any field I wanted to write about.
-One day, I realized that due to the good old rule saying "the more you know,
-the more you realize how much you don't know" I will probably never reach this point.
+because I've never considered myself an expert at any field.
+
+One day I realized that, according to the good old rule saying *"the more you
+know, the more you realize how much you don't know"*, I will probably never
+reach this point.
 
 Finally, on 27th February 2021, I've decided to start this blog and regularly
-share the things I learn with the world.  
+share the things I learn with others.  
 
 At its foundation this blog is serving me as a kind of travel diary, that I
 plan to keep during my journey into the unknown of computer science.
 
-_Okay, one more reason why I finally made up my mind and launched this blog
-was that I was supposed to finally start working on my bachelor's thesis :grin:_
+*Okay, one more reason why I finally made up my mind and launched this blog
+was that I was supposed to finally start working on my bachelor's thesis :grin:*
 
 # the purpose
 
