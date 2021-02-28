@@ -143,7 +143,7 @@ footer-link-col: "#404040"
 matomo:
  site_id: "3"
  uri: "balins-matomo.eastus2.cloudapp.azure.com"
- opt-out: true
+ opt-out: false
 
 # --- Comments --- #
 
