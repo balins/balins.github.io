@@ -1,7 +1,6 @@
 ---
 layout: page
 title: about
-subtitle: hello, world!
 ---
 # the author
 
@@ -15,7 +14,7 @@ math, data science, machine learning, the cloud, Linux distros and whatnot.
 
 On the personal side, I enjoy watching good movies and playing video games
 (especially those story-driven!). I love listening to podcasts about other
-countries, cultures (especially the Eastern) and events that take place
+countries, cultures (mainly the Eastern) and events that take place
 all around the world.
 
 # the blog

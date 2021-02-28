@@ -1,6 +1,6 @@
 ---
 layout: post
-title: hello, world
+title: hello, world!
 date: "2021-02-28 17:33:07 +0100"
 tags: ["blog"]
 ---
