@@ -40,7 +40,7 @@ title-img: "/android-chrome-192x192.png"
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "balinski dot jakub at gmail dot com"
+  email: "balinski.jakub@gmail.com"
 #  facebook: deanattali
   github: balins
 #  twitter: daattali
@@ -140,10 +140,10 @@ footer-link-col: "#404040"
 # Matomo (aka Piwik) Web statistics
 # Uncomment the following section to enable Matomo. The opt-out parameter controls
 # whether or not you want to allow users to opt out of tracking.
-#matomo:
-#  site_id: "9"
-#  uri: "demo.wiki.pro"
-#  opt-out: true
+matomo:
+ site_id: "3"
+ uri: "http://balins-matomo.eastus2.cloudapp.azure.com/"
+ opt-out: true
 
 # --- Comments --- #
 
@@ -157,11 +157,11 @@ footer-link-col: "#404040"
 # "repository" (make sure the repository is public), (2) Enable Issues in your repository,
 # (3) Install the Utterances app in your repository https://github.com/apps/utterances
 # See more details about the parameters below at https://utteranc.es/
-#utterances:
-#  repository: # GitHub username/repository eg. "daattali/beautiful-jekyll"
-#  issue-term: title   # Mapping between blog posts and GitHub issues
-#  theme: github-light # Utterances theme
-#  label: blog-comments # Label that will be assigned to GitHub Issues created by Utterances
+utterances:
+  repository: balins/balins.github.io # GitHub username/repository eg. "daattali/beautiful-jekyll"
+  issue-term: title   # Mapping between blog posts and GitHub issues
+  theme: github-light # Utterances theme
+  label: blog-comments # Label that will be assigned to GitHub Issues created by Utterances
 
 # To use Staticman comments, uncomment the following section. You may leave the reCaptcha
 # section commented if you aren't using reCaptcha for spam protection.
