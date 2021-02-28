@@ -42,7 +42,7 @@ title-img: "/android-chrome-192x192.png"
 social-network-links:
   email: "balinski dot jakub at gmail dot com"
 #  facebook: deanattali
-  github: jakub-balinski
+  github: balins
 #  twitter: daattali
 #  patreon: DeanAttali
 #  youtube: c/daattali
@@ -79,7 +79,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-# url-pretty: "jakub-balinski.github.io"
+# url-pretty: "balins.github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
