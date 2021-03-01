@@ -31,7 +31,7 @@ Finally, on 27th February 2021, I've decided to start this blog and regularly
 share the things I learn with others.  
 
 <small>*Okay, I have to admit that another reason for me finally starting this
-blog was me being supposed to work hard on my bachelor's thesis :grin:*</small>
+blog was being supposed to work hard on my bachelor's thesis :grin:*</small>
 
 At its foundation this blog is serving me as a kind of travel diary, that I
 plan to keep during my journey into the unknown of computer science.
