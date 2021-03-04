@@ -1,10 +1,10 @@
 ---
 layout: post
-title: hello, world!
+title: "Hello, world!"
+subtitle: "Hooray! This is the very first blog post here! :tada:"
 date: "2021-02-28 17:33:07 +0100"
 tags: ["blog"]
 ---
-*__Hooray!__ This is the very first blog post here!* :tada:
 
 My name is Jakub Baliński, and I'm the author of this blog. This place will
 become my "travel diary", where I will share with you updates on my journey

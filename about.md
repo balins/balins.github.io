@@ -1,8 +1,8 @@
 ---
 layout: page
-title: about
+title: "About"
 ---
-# the author
+# The author
 
 My name is Jakub Baliński. I am a computer science student and part-time
 programmer, who's learning the ropes in the IT world.
@@ -17,7 +17,7 @@ On the personal side, I enjoy watching good movies and playing video games
 countries, cultures (mainly the Eastern) and events that take place
 all around the world.
 
-# the blog
+# The blog
 
 The idea to start my own blog and note the things I learn had been crossing
 my mind for many months. However, I had never felt ready to put it into effect,
@@ -36,14 +36,10 @@ blog was being supposed to work hard on my bachelor's thesis :grin:*</small>
 At its foundation this blog is serving me as a kind of travel diary, that I
 plan to keep during my journey into the unknown of computer science.
 
-# the purpose
+# The purpose
 
 I want to solidify my knowledge.  
 I want to give back to the community.  
 I want to share my point of view with others.  
 I want to become a better communicator and teacher.  
 I want to share things I find not getting deserved attention.
-
-Hopefully, someday this blog will become a place where anyone willing to
-grow their passion for computer science will be able to find something
-for themselves.

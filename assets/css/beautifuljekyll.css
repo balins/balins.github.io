@@ -122,6 +122,7 @@ img {
 /* --- Navbar --- */
 
 .navbar-custom {
+  text-transform: uppercase;
   background-color: {{ site.navbar-col | default: "#EAEAEA" }};
   border-bottom: 1px solid {{ site.navbar-border-col | default: "#DDDDDD" }};
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -585,6 +586,16 @@ footer .footer-custom-content {
 
 .tag-btn {
   margin: 0.3125rem;
+}
+
+.btn-primary {
+  background-color: #49896F;
+  border-color: #49896F;
+}
+
+.btn-primary:hover {
+  background-color: #B74555;
+  border-color: #B74555;
 }
 
 #full-tags-list {

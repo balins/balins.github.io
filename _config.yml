@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: Jakub Balinski's tech blog
+title: Balins's tech blog
 
 # Your name to show in the footer
 author: Jakub Baliński
@@ -25,14 +25,14 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/android-chrome-192x192.png"
+avatar: "/assets/img/favicon/android-chrome-192x192.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: false
+round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-title-img: "/android-chrome-192x192.png"
+# title-img: "/assets/img/favicon/android-chrome-192x192.png"
 
 
 # --- Footer social media links --- #
@@ -66,7 +66,7 @@ social-network-links:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: Jakub Balinski's tech blog
+rss-description: Balins's tech blog
 
 # --- General options --- #
 
@@ -97,26 +97,26 @@ feed_show_tags: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
+navbar-col: "#49896F"
+navbar-text-col: "#FFFFFF"
+navbar-border-col: "#B74555"
 page-col: "#FFFFFF"
-text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
+text-col: "#333333"
+link-col: "#49896F"
+hover-col: "#B74555"
+footer-col: "#49896F"
+footer-text-col: "#FFFFFF"
 footer-link-col: "#404040"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
-navbar-img: "/assets/img/bgimage.png"
-footer-img: "/assets/img/bgimage.png"
+#navbar-img: "/assets/img/bgimage.png"
+#footer-img: "/assets/img/bgimage.png"
 #page-img: "/assets/img/bgimage.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
-#mobile-theme-col: "#0085A1"
+mobile-theme-col: "#49896F"
 
 # For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
 #site-css:
