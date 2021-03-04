@@ -9,24 +9,25 @@ tags: ["security", "networking", "basics"]
 As a beginner softwarer developer you probably don't care much about
 certificates, private keys and other things related to security of your apps.
 You just stick to good old HTTP, make sure you didn't forget to paste all of
-these weird `--insecure --notls --sureiwantfreebitcoins` flags, skip all
-warnings...
+these weird `--insecure --notls --ignore-certificate-errors 
+--sure-i-want-free-bitcoins` flags, skip all warnings...
 
 Your main goal is just to make things work, and in this early stage **there's
-nothing wrong with that**!
+nothing wrong with that**! And... security can wait.
 
 # So, will I ever need to deal with this stuff?
 
 Then, as time passes, you start to feel that you know your favorite language in
 and out. You develop project after project — thanks to the framework you picked
 up. You know all the tools that might come handy when building your
-appplication. And you finally made it — you've got your first junior position.
+appplication. Your applications do whatatever you want them to do. And you've 
+finally made it — you've got your first junior position.
 
 # Nothing can break the spell, right?
-All of a sudden, the issue that was completely out of your interest is back with
-a vengeance. It's **authentication**.
+First days of work. All of a sudden, the issue that was completely out of your 
+interest is back with a vengeance. It's **authentication**.
 
-Hell breaks loose. Your brain desperately tries to get parse all of these error
+Hell breaks loose. Your brain desperately tries to parse all these error
 messages, documentation pages and StackOverflow threads. All of these have
 something in common — they are flooded with some mysterious acronyms like **SSL,
 TLS, CA, X.509, CSR, RSA**...
@@ -39,7 +40,7 @@ have to face these problems really soon.
 
 # Any examples?
 
-You see, let's assume that...
+Let's assume that...
 
 **...communication between your apps must be *encrypted*, so you've been told to
 generate some *certificates*.**
@@ -62,7 +63,7 @@ FANCY-ERROR-PRINTER!`
 
 *Okay, now I'm in trouble...*
 
-# Tell me more about this whole authentication thing
+# So what this whole "authentication" is about?
 
 Without at least basic level of understanding of commonly used authentication
 mechanisms, one can get really confused when moving to a professional working
@@ -72,8 +73,12 @@ shared by someone else, copy & paste it and move on.
 Hovewer, I'd like to encourage you to take more holistic approach here.
 **Authentication is ubiquitous and plays a very important role in digital
 world.** It is essential for safety of network communication and provides a
-fundamental source of trust on the Internet.
+fundamental source of trust on the Internet. That being said, we will take a 
+closer look at every building block of authentication mechanism to understand 
+it better.
 
 In this series of articles I will explain the basics of authentication and make
-all the related terminology a little clearer. You can also expect to find some
-examples of common situations, when such knowledge can come handy. Stay tuned!
+all the related terminology a little clearer. You can also expect me to show 
+you examples of common situations, when such knowledge may come handy.
+
+Stay tuned!
