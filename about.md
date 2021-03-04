@@ -19,7 +19,7 @@ all around the world.
 
 # The blog
 
-The idea to start my own blog and note the things I learn had been crossing
+The idea to start my own blog and note down the things I learn had been crossing
 my mind for many months. However, I had never felt ready to put it into effect,
 because I've never considered myself an expert at any field.
 
@@ -34,7 +34,8 @@ share the things I learn with others.
 blog was being supposed to work hard on my bachelor's thesis :grin:*</small>
 
 At its foundation this blog is serving me as a kind of travel diary, that I
-plan to keep during my journey into the unknown of computer science.
+plan to keep during my journey into the unknown of computer science. However, it
+will be great if one day it will become a source of knowledge for other people!
 
 # The purpose
 
