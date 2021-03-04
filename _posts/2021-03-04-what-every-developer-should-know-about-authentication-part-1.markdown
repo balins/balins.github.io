@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "What every developer should know about authentication (part 1)"
+subtitle: "The problems you can face at the beginning of your career"
 date: "2021-03-04 19:03:20 +0100"
 tags: ["security", "networking", "basics"]
 ---
